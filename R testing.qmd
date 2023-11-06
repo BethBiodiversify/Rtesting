@@ -26,8 +26,13 @@ You can add options to executable code like this
 The `echo: false` option disables the printing of code (only output is displayed).
 
 # PAT TOKEN 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
+
 gitcreds::gitcreds_set()
 
-install.packages("ggplot2")
-library(ggplot)
+install.packages("ggplot2") library(ggplot2)
 
+#Added this
+
+Dat\<-(cars)
+
+plot(cars)
