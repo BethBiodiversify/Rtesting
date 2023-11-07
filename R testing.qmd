@@ -29,10 +29,15 @@ The `echo: false` option disables the printing of code (only output is displayed
 
 gitcreds::gitcreds_set()
 
-install.packages("ggplot2") library(ggplot2)
+install.packages("ggplot2")
+
+\
+library(ggplot2)
 
 #Added this
 
 Dat\<-(cars)
 
 plot(cars)
+
+summary(cars)\
