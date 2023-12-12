@@ -25,11 +25,13 @@ You can add options to executable code like this
 
 The `echo: false` option disables the printing of code (only output is displayed).
 
-# PAT TOKEN 
+# PAT TOKEN
 
-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
+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
 
-Above has no expiration date
+Expires 23rd July 24
+
+Then run following code line
 
 gitcreds::gitcreds_set()
 
